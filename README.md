@@ -7,8 +7,11 @@ About.me
 • Data Science & Research Enthusiast!
 
 An Experienced Assistant System Engineer with a demonstrated history of working in both the Information Technology and Services Industry.
+
 Associated with TCS - an Esteemed Organization which is Professionally Driven, Pursue Challenges which are Dynamic Resulting in a Rewarding Career through Learning and Development of My Skills especially Technical Acumen that I have gained in My Academic Courses and the Excellent Training imparted in TCS.
+
 Gained Experience of Working as a Full Stack Developer, for a Web Development Project sponsored by the Ministry of Human Resource Development (MHRD) at Products & Services Division of the Institute of Informatics & Communication, University of Delhi.
+
 Completed my Bachelors in Electronics & Communication, from Jaypee Institute of Information Technology, Noida and my Masters in Informatics, from the Institute of Informatics & Communication, University of Delhi.
 
 #Awarded the 'Captain Anuj Nayyar Memorial Gold Medal’ from the Honourable Minister of Human Resource Development, 'Shri Ramesh Pokhriyal', in 2019 for my Academic Performance in Masters from University of Delhi.
