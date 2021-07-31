@@ -1,7 +1,6 @@
 About.me
 
--> Assistant System Engineer at TCS 
-
+• Assistant System Engineer at TCS 
 • Gold Medallist in Masters 
 • Experienced Full Stack Web Developer 
 • Former Media & Public Relations Coordinator, UDSC 
